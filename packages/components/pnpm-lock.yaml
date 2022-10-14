@@ -1,0 +1,17 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@packages/utils': workspace:*
+  lodash: ^4.17.21
+
+dependencies:
+  '@packages/utils': link:../utils
+  lodash: registry.npmjs.org/lodash/4.17.21
+
+packages:
+
+  registry.npmjs.org/lodash/4.17.21:
+    resolution: {integrity: sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz}
+    name: lodash
+    version: 4.17.21
+    dev: false

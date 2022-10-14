@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+specifiers:
+  dayjs: ^1.11.5
+
+dependencies:
+  dayjs: registry.npmjs.org/dayjs/1.11.5
+
+packages:
+
+  registry.npmjs.org/dayjs/1.11.5:
+    resolution: {integrity: sha512-CAdX5Q3YW3Gclyo5Vpqkgpj8fSdLQcRuzfX6mC6Phy0nfJ0eGYOeS7m4mt2plDWLAtA4TqTakvbboHvUxfe4iA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/dayjs/-/dayjs-1.11.5.tgz}
+    name: dayjs
+    version: 1.11.5
+    dev: false
